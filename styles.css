@@ -14,19 +14,6 @@ h1 {
     color: #333;
 }
 
-.html-section,
-.python-section {
-    margin-bottom: 30px;
-}
-
-.html-section h2,
-.python-section h2 {
-    color: #333;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-}
-
 .code-block {
     background-color: #f0f0f0;
     padding: 15px;
