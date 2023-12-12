@@ -1,68 +1,39 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Percepção da Realidade</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f7f7f7;
-        }
+/* styles.css */
 
-        h1 {
-            text-align: center;
-            color: #333;
-        }
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+}
 
-        p {
-            margin-bottom: 1.5em;
-            color: #555;
-        }
+h1 {
+    text-align: center;
+    color: #333;
+}
 
-        ul {
-            list-style-type: disc;
-            margin-left: 1.5em;
-            color: #555;
-        }
+p {
+    margin-bottom: 1.5em;
+    color: #555;
+}
 
-        li {
-            margin-bottom: 0.5em;
-        }
+ul {
+    list-style-type: disc;
+    margin-left: 1.5em;
+    color: #555;
+}
 
-        em {
-            font-style: italic;
-            color: #777;
-        }
+li {
+    margin-bottom: 0.5em;
+}
 
-        hr {
-            border: 1px solid #ddd;
-            margin: 2em 0;
-        }
-    </style>
-</head>
-<body>
+em {
+    font-style: italic;
+    color: #777;
+}
 
-<h1>Percepção da Realidade e o Cérebro</h1>
-
-<p>O cérebro desempenha um papel fundamental na nossa percepção da realidade.</p>
-
-<ul>
-    <li><strong>Percepção Sensorial:</strong> O cérebro interpreta os sinais dos nossos sentidos.</li>
-    <li><strong>Construção da Realidade:</strong> Ele cria uma representação interna do que acredita ser a realidade.</li>
-    <li><strong>Processamento Sensorial:</strong> Diferentes áreas do cérebro processam informações dos sentidos.</li>
-    <li><strong>Integração Multissensorial:</strong> O cérebro integra informações de diferentes sentidos.</li>
-    <li><strong>Percepção Seletiva:</strong> Focamos em certos aspectos e ignoramos outros.</li>
-</ul>
-
-<p>Além disso, a nossa experiência da realidade pode ser influenciada por fatores como a nossa história pessoal, crenças e expectativas.</p>
-
-<p><em>Nota: Este é um exemplo simplificado e simbólico e não reflete a complexidade total do processo.</em></p>
-
-<hr>
-
-<p>Para uma compreensão mais aprofundada, recomendo explorar a neurociência e a filosofia da mente em mais detalhes.</p>
-
-</body>
-</html>
+hr {
+    border: 1px solid #ddd;
+    margin: 2em 0;
+}
