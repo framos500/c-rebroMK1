@@ -1,9 +1,3 @@
-# Cérebro e Pensamento
-
-## HTML Section
-
-### Pensamento Lógico
-```html
 <div class="code-block">
     <p class="comment"># Pensamento Lógico</p>
     <pre>
